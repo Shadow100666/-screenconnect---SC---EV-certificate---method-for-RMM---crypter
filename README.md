@@ -3,3 +3,4 @@ Method for Screenconnect &amp; other RMM  to bypass smartscreen &amp; all Antivi
 ESCROW always accepted
 price 1k$
     
+      
